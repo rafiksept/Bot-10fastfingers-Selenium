@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 
 
-DRIVER_PATH = r'C:\Users\RAFIK\Downloads\chromedriver_win32/chromedriver'
+DRIVER_PATH = r'C:\Users\Downloads\chromedriver_win32/chromedriver'
 driver = webdriver.Chrome(executable_path=DRIVER_PATH)
 
 driver.get("https://10fastfingers.com/typing-test/russian")
