@@ -1,0 +1,4 @@
+Tata Cara menggunakan bot
+- Jangan lupa untuk menginstall selenium, beautifulsoup, dan download webdriver(tutorial nya sudah banyak di google, tinggal cari saja)
+- Apabila ingin mengubah bahasa masukkan link sesuai bahasa yang diinginkan di driver.get(#masukkan link disini)
+- Untuk mengatur kecepatan mengetik ubah waktu di time.sleep(#ketik waktu disini)
